@@ -1,0 +1,15 @@
+{
+  "name": "wujiquan-vuepress",
+  "version": "0.1.0",
+  "description": "Wujiquan website using vuepress",
+  "author": "Lee Hanxue <hanxue@outlook.com>",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
