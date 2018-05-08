@@ -8,7 +8,10 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "dependencies": {},
+  "dependencies": {
+    "global": "^4.3.2",
+    "netlify-cli": "^1.2.2"
+  },
   "devDependencies": {
     "vuepress": "^0.8.4"
   }
