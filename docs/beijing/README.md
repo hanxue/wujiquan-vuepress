@@ -15,7 +15,8 @@ We have regular training sessions on the following days:
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
-| Google Maps  |     |
+| Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
+| GPS Coordinate | 39.916403,116.444277 |
 
 | Tuesday       |         |
 | ------------- |--------|
@@ -23,7 +24,8 @@ We have regular training sessions on the following days:
 | Location     | Forest Park      |
 | Direction    | Take Beijing Subway Line 8 to the Forest Park (奥林匹克公园）stop |
 | Baidu Maps   | [https://j.map.baidu.com/0mec5](https://j.map.baidu.com/0mec5) |
-| Google Maps  |     |
+| Google Maps  | [https://goo.gl/maps/LpZa8E4o5BL2](https://goo.gl/maps/LpZa8E4o5BL2) |
+| GPS Coordinate | 40.012009,116.395882 | 
 
 | Wednesday     |         |
 | ------------- |--------|
@@ -31,7 +33,8 @@ We have regular training sessions on the following days:
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
-| Google Maps  |     |
+| Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
+| GPS Coordinate | 39.916403,116.444277 |
 
 | Thursday     |         |
 | ------------ |--------|
@@ -39,7 +42,9 @@ We have regular training sessions on the following days:
 | Location     | Xinglong Park      |
 | Direction    | Take Beijing Subway Batong Line (from Line 1) and take exit A2 at the Gaobeidian (高碑店）stop |
 | Baidu Maps   | [https://j.map.baidu.com/mm8qP](https://j.map.baidu.com/mm8qP) |
-| Google Maps  |     |
+| Google Maps  | [https://goo.gl/maps/p9JTrhLm8m62](https://goo.gl/maps/p9JTrhLm8m62) |
+| GPS Coordinate | 39.910591,116.530159 | 
+
 
 | Saturday     |         |
 | ------------- |--------|
@@ -47,7 +52,8 @@ We have regular training sessions on the following days:
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
-| Google Maps  |     |
+| Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
+| GPS Coordinate | 39.916403,116.444277 |
 
 | Sunday     |         |
 | ------------ |--------|
@@ -55,4 +61,5 @@ We have regular training sessions on the following days:
 | Location     | Xinglong Park      |
 | Direction    | Take Beijing Subway Batong Line (from Line 1) and take exit A2 at the Gaobeidian (高碑店）stop |
 | Baidu Maps   | [https://j.map.baidu.com/mm8qP](https://j.map.baidu.com/mm8qP) |
-| Google Maps  |     |
+| Google Maps  | [https://goo.gl/maps/p9JTrhLm8m62](https://goo.gl/maps/p9JTrhLm8m62) |
+| GPS Coordinate | 39.910591,116.530159 |
