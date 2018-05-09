@@ -11,6 +11,10 @@ module.exports = {
     repo: 'hanxue/wujiquan-vuepress',
     editLinks: true,
     docsDir: 'docs',
+    sidebar: [
+      'articles/class-video',
+      'articles/short-term-course-for-health',
+    ],
     locales: {
       '/': {
         label: 'English',
@@ -26,12 +30,6 @@ module.exports = {
             link: '/beijing/'
           },
         ],
-        sidebar: {
-          '/articles/': [
-            'class-video',  /* /foo/one.html */
-            'short-term-course-for-health'   /* /foo/two.html */
-          ],
-        },
         // sidebar: {
         //   '/articles/': genSidebarConfig('Articles')
         // }
