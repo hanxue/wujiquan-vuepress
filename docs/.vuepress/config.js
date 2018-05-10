@@ -41,13 +41,9 @@ module.exports = {
             link: '/about/',
           },
         ],
-        sidebar: [
-          'articles/class-video',
-          'articles/short-term-course-for-health',
-        ],
-        // sidebar: {
-        //   '/articles/': genSidebarConfig('Articles')
-        // }
+        sidebar: {
+          '/articles/': genSidebarConfig('Articles')
+        }
       },
       '/zh/': {
         lang: 'zh-CN',
@@ -68,10 +64,9 @@ module.exports = {
             link: '/about/',
           },
         ],
-        sidebar: [
-          'zh/articles/class-video',
-          'zh/articles/short-term-course-for-health',
-        ],
+        sidebar: {
+          '/zh/articles/': genSidebarConfig('文章')
+        }
       }
     }
   }
