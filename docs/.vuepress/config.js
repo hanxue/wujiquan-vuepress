@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Wujiquan',
   description: 'Traditional martial arts',
+  ga: 'UA-118979937-1',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
