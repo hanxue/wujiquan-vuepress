@@ -23,12 +23,16 @@ module.exports = {
         editLinkText: 'Edit this page on GitHub',
         nav: [
           {
-            text: 'About Us',
-            link: '/about/',
+            text: 'Articles',
+            link: '/articles/'
           },
           {
             text: 'Beijing',
             link: '/beijing/'
+          },
+          {
+            text: 'About Us',
+            link: '/about/',
           },
         ],
         // sidebar: {
