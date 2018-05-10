@@ -4,7 +4,7 @@ In order to promote Wujiquan and help more people to access its unique life nour
 
 | Contact       |         |
 | ------------- |--------|
-| Email         | marianlassak@163.com |
+| Email         | marian@wujiquan.net |
 | Wechat     | Breznan  |
 | Add Wechat Contact | ![Marian Wechat contact](/images/marian_wechat_qr_code.jpeg) |
 
