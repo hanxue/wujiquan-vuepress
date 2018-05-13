@@ -79,6 +79,7 @@ function genSidebarConfig (title) {
       collapsable: false,
       children: [
         'regular-classes-in-beijing',
+        'master-yu-accepting-disciples-april-2018',
         'class-video',
         'short-term-course-for-health',
       ]
