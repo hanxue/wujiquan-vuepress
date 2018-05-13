@@ -29,7 +29,7 @@ After one has become an indoor disciple, he or she has access to the whole syste
 
 Outside of China there are five disciples from Slovakia, one from Czech, one from USA, one from the Philippines, one from Brasil and one from Malaysia. No other country so far. This is due to the fact that Wujiquan was until recently kept only in the family of our Grandmaster. Only after he retired, he started to accept indoor disciples outside his family. The main reason he made the system public was to ensure that Wujiquan would not disappear as did many styles of Chinese martial arts before. We are very grateful that Master Wu was so wise and so courageous to adjust the tradition and made it possible for us to learn and practice Wujiquan. We are also grateful to our Master, 7th generation successor of Wujiquan Mr. Yu Qingdi who is closed door disciple of Grandmaster Wu Zhenshi.
 
-![Wujiquan family in Dalian](/images/wujiquan_group_photo_dalian_april_2018)
+![Wujiquan family in Dalian](/images/wujiquan_group_photo_dalian_april_2018.webp)
 
 Stay tuned for the next post!
 
