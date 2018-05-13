@@ -78,7 +78,7 @@ function genSidebarConfig (title) {
       title,
       collapsable: false,
       children: [
-        '',
+        'regular-classes-in-beijing',
         'class-video',
         'short-term-course-for-health',
       ]
