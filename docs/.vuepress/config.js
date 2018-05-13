@@ -19,7 +19,7 @@ module.exports = {
   serviceWorker: true,
   // theme: 'vue',
   themeConfig: {
-    repo: 'hanxue/wujiquan-vuepress',
+    repo: '',
     editLinks: true,
     docsDir: 'docs',
     locales: {
