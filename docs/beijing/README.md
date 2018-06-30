@@ -10,15 +10,15 @@ We have regular training sessions on the following days:
 
 | Day       | Time        | Location   |
 | --------- |-------------|------------|
-| Monday      | 19:00 | Ritan Park |
-| Tuesday     |  12:30 | Forest Park    |
-| Wednesday   |  13:00 | Ritan Park |
-| Thursday    | 10:30 | Ritan Park |
-|             | 19:00 | Xinglong Park |
+| Monday      | 7:00 PM | Ritan Park |
+| Tuesday     | 12:30 PM | Forest Park    |
+| Wednesday   | 1:00 PM | Ritan Park |
+| Thursday    | 10:30 AM | Ritan Park |
+|             | 7:00 AM | Xinglong Park |
 | Friday      |        | (no classes) |
-| Saturday    | 10:30 | Ritan Park |
-| Sunday      | 10:30 | Ritan Park |
-|             | 15:30 | Forest Park    |
+| Saturday    | 10:30 AM | Ritan Park |
+| Sunday      | 10:30 AM | Ritan Park |
+|             | 3:30 PM | Forest Park    |
 
 ## Class Locations
 

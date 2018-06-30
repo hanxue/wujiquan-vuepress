@@ -28,8 +28,8 @@ Quality family time, fun, health and martial arts for parents and kids.
 
 | Location       | Price        | Time    | Schedule |
 | ------------- |--------|----------|----------|
-| Ritan Park | RMB 230 per class | 0900-1000 | Saturday and Sunday |
-| Ritan Park | RMB 1200 (8 classes) | 0900-1000 | Saturday and Sunday |
+| Ritan Park | RMB 230 per class | 09:00 - 10:00 AM | Saturday and Sunday |
+| Ritan Park | RMB 1200 (8 classes) | 09:00 - 10:00 AM | Saturday and Sunday |
 
 ### QiGong Classes
 <div id="container">
@@ -40,7 +40,7 @@ Start your morning with ancient Qigong practices that will energize your body an
 
 | Location       | Price        | Time    | Schedule |
 | ------------- |--------|----------|----------|
-| Ritan Park | RMB 50 (per class) | 0900-0950 | Monday, Tuesday, Wednesday and Thursday |
+| Ritan Park | RMB 50 (per class) | 09:00 - 09:50 AM | Monday, Tuesday, Wednesday and Thursday |
 
 ### Advanced Classes: Panther Form
 <div id="container">
@@ -52,6 +52,5 @@ A fighting form based on the moves and spirit of the Panther. This once secret f
 
 | Location       | Price        | Time    | Schedule |
 | ------------- |--------|----------|----------|
-| Ritan Park | RMB 860 (complete course) | 1000 - 1100 | Saturday and Sunday |
-| Ritan Park | RMB 860 (complete course) | 1000 - 1100 | Tuesday and Wednesday |
-
+| Ritan Park | RMB 860 (complete course) | 1000 - 1100 AM | Saturday and Sunday |
+| Ritan Park | RMB 860 (complete course) | 1000 - 1100 AM | Tuesday and Wednesday |
