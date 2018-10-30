@@ -15,15 +15,10 @@ This practice is beneficial for muscles, ligaments, joints as well as internal o
 
 | Day       | Time        | Location   |
 | --------- |-------------|------------|
-| Monday      | 19:00 | Ritan Park |
-| Tuesday     |  12:30 | Forest Park    |
-| Wednesday   |  13:00 | Ritan Park |
-| Thursday    | 10:30 | Ritan Park |
-|             | 19:00 | Xinglong Park |
-| Friday      |        | (no classes) |
-| Saturday    | 10:30 | Ritan Park |
-| Sunday      | 10:30 | Ritan Park |
-|             | 15:30 | Forest Park    |
+| Monday      | 17:30 | Ritan Park |
+| Wednesday   |  10:00 | Ritan Park |
+| Friday      |  10:00 | Ritan Park |
+| Saturday    | 09:30 | Ritan Park |
 
 **Note: Saturday's class at Ritan Park is free of charge**
 
@@ -45,8 +40,8 @@ In Wujiquan there are empty hand forms, weapon forms (short stick, broadsword,sw
 
 | Instructor       | Details        |
 | --------- |-------------|
-| **Marian Lassak** | 8th generation successor of Wujiquan, Chief instructor of Wujiquan Beijing, 6 degree (duan) in Chinese martial arts (under Chinese Wushu Association) |
-| **James Kinkade** | 8th generation successor of Wujiquan, instructor of Wujiquan Beijing |
+| **Marian Lassak** | 8th generation successor of Wujiquan, Chairman of Wujiquan International Association, 6 degree (duan) in Chinese martial arts (under Chinese Wushu Association) |
+| **James Kinkade** | 8th generation successor of Wujiquan, Chief instructor of Wujiquan Beijing |
 | **Connie Gaviola** | 8th generation successor of Wujiquan, instructor of Wujiquan Beijing |
 | **Fernanda Wendland** | 8th generation successor of Wujiquan, instructor of Wujiquan Beijing |
 | **Lee Hanxue** | 8th generation successor of Wujiquan, instructor of Wujiquan Beijing |

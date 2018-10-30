@@ -10,87 +10,45 @@ We have regular training sessions on the following days:
 
 | Day       | Time        | Location   |
 | --------- |-------------|------------|
-| Monday      | 7:00 PM | Ritan Park |
-| Tuesday     | 12:30 PM | Forest Park    |
-| Wednesday   | 1:00 PM | Ritan Park |
-| Thursday    | 10:30 AM | Ritan Park |
-|             | 7:00 AM | Xinglong Park |
-| Friday      |        | (no classes) |
-| Saturday    | 10:30 AM | Ritan Park |
-| Sunday      | 10:30 AM | Ritan Park |
-|             | 3:30 PM | Forest Park    |
+| Monday      | 17:30 | Ritan Park |
+| Wednesday   |  10:00 | Ritan Park |
+| Friday      |  10:00 | Ritan Park |
+| Saturday    | 09:30 | Ritan Park |
 
 ## Class Locations
 
 | Monday       |         |
 | ------------- |--------|
-| Time         | 7:00 PM |
+| Time         | 5.30 PM |
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
 | Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
 | GPS Coordinate | 39.916403,116.444277 |
-
-| Tuesday       |         |
-| ------------- |--------|
-| Time         | 12:30 PM |
-| Location     | Forest Park      |
-| Direction    | Take Beijing Subway Line 8 to the Forest Park (奥林匹克公园）stop |
-| Baidu Maps   | [https://j.map.baidu.com/0mec5](https://j.map.baidu.com/0mec5) |
-| Google Maps  | [https://goo.gl/maps/LpZa8E4o5BL2](https://goo.gl/maps/LpZa8E4o5BL2) |
-| GPS Coordinate | 40.012009,116.395882 | 
 
 | Wednesday     |         |
 | ------------- |--------|
-| Time         | 1:00 PM |
+| Time         | 10:00 AM |
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
 | Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
 | GPS Coordinate | 39.916403,116.444277 |
 
-| Thursday     |         |
+| Friday     |         |
 | ------------- |--------|
-| Time         | 10:30 AM |
+| Time         | 09:30 AM |
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
 | Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
 | GPS Coordinate | 39.916403,116.444277 |
-
-| Thursday     |         |
-| ------------ |--------|
-| Time         | 7:00 PM |
-| Location     | Xinglong Park      |
-| Direction    | Take Beijing Subway Batong Line (from Line 1) and take exit A2 at the Gaobeidian (高碑店）stop |
-| Baidu Maps   | [https://j.map.baidu.com/mm8qP](https://j.map.baidu.com/mm8qP) |
-| Google Maps  | [https://goo.gl/maps/p9JTrhLm8m62](https://goo.gl/maps/p9JTrhLm8m62) |
-| GPS Coordinate | 39.910591,116.530159 | 
-
 
 | Saturday     |         |
 | ------------- |--------|
-| Time         | 10:30 AM |
+| Time         | 09:30 AM |
 | Location     | Ritan Park      |
 | Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
 | Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
 | Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
 | GPS Coordinate | 39.916403,116.444277 |
-
-| Sunday     |         |
-| ------------ |--------|
-| Time         | 10:30 AM |
-| Location     | Ritan Park      |
-| Direction    | Take Beijing Subway Line 1 and take exit A2 at the Jianguomen (建国门）stop|
-| Baidu Maps   | [https://j.map.baidu.com/Ao01O](https://j.map.baidu.com/Ao01O) |
-| Google Maps  | [https://goo.gl/maps/Qg9Pw9NbsVA2](https://goo.gl/maps/Qg9Pw9NbsVA2) |
-| GPS Coordinate | 39.916403,116.444277 |
-
-| Sunday       |         |
-| ------------- |--------|
-| Time         | 3:30 PM |
-| Location     | Forest Park      |
-| Direction    | Take Beijing Subway Line 8 to the Forest Park (奥林匹克公园）stop |
-| Baidu Maps   | [https://j.map.baidu.com/0mec5](https://j.map.baidu.com/0mec5) |
-| Google Maps  | [https://goo.gl/maps/LpZa8E4o5BL2](https://goo.gl/maps/LpZa8E4o5BL2) |
-| GPS Coordinate | 40.012009,116.395882 | 
