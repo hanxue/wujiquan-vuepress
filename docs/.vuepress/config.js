@@ -35,7 +35,7 @@ module.exports = {
           {
             text: 'Resources',
             items: [
-              { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+              // { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
             ],
           },
           {
@@ -89,7 +89,7 @@ function genSidebarConfig (title) {
         'master-yu-accepting-disciples-april-2018',
         'class-video',
         'short-term-course-for-health',
-        'master-yang-teaches-health-cultivation'
+        'westerner-teaches-health-cultivation'
       ]
     }
   ]
