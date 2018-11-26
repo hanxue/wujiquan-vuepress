@@ -13,6 +13,6 @@
     "netlify-cli": "^1.2.2"
   },
   "devDependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^1.0.0-alpha.24"
   }
 }
