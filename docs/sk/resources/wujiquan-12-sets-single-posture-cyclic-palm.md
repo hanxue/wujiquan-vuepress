@@ -9,7 +9,7 @@
     3. Dvojitá vpichujúca dlaň 双插掌 (Shuāngchā zhǎng)
     4. Naťahovanie nudlí /cesta 拉面掌 (Lāmiàn zhǎng)
     5. Kohúti pazúr 鸡爪掌 (Jīzhuǎ zhǎng)
-    6. Zacviknutá lopta 挟求掌 (Xiéqiú zhǎng)
+    6. Zacviknutá lopta 夹求掌 (Jiāqiú zhǎng)
 
 ## Mesiac
 
@@ -76,7 +76,7 @@
 8. ### 猿形掌 (Yuánxíng zhǎng)
     1. Zacviknutie a trenie dlaní 挟搓掌 (Xiécuō zhǎng)
     2. Roztočenie kolesa 摇轮掌 (Yáolún zhǎng)
-    3. Prenášanie lopty 反球掌 (Fǎnqiú zhǎng)
+    3. Prenášanie lopty 翻球掌 (Fǎnqiú zhǎng)
     4. Odhodenie lopty 丢球掌 (Diūqiú zhǎng)
     5. Vyjsť v ústrety a seknúť 迎砍掌 (Yíngkǎn zhǎng)
     6. Vytrhnutie srdca 掏心掌 (Tāoxīn zhǎng)
@@ -87,8 +87,8 @@
     1. Zachytenie a odhodenie 拿丢掌 (Nádiū zhǎng)
     2. Darovanie lopty 献球掌 (Xiànqiú zhǎng)
     3. Vystreľujúci jazyk hada 吐探掌 (Tǔtàn zhǎng)
-    4. Vypichávanie očí 弹球掌 (Dànqiú zhǎng)
-    5. Krúženie zápästím 腕摇掌 (Wànyáo zhǎng)
+    4. Vypichávanie očí 探球掌 (Tànqiú zhǎng)
+    5. Krúženie zápästím 腕绕掌 (Wànrào zhǎng)
     6. Ovíjanie tela/ Had ovíja telo 缠身掌 (Chánshēn zhǎng)
 
 ## Žeriav
@@ -97,7 +97,7 @@
     1. Pozdĺžny vpich 顺插掌 (Shùnchā zhǎng)
     2. Stiahnutie a odhodenie 捋抖掌 (Lǚdǒu zhǎng)
     3. Krížový blok a kop 棚踢掌 (Péngtī zhǎng)
-    4. Sek a brodenie 劈荡掌 (Pīdàng zhǎng)
+    4. Sek a brodenie 劈蹚掌 (Pītāng zhǎng)
     5. Stiahnutie a podmetenie 收扫掌 (Shōusǎo zhǎng)
     6. Tlačenie lakťom 压肘掌 (Yāzhǒu zhǎng)
 
@@ -115,7 +115,7 @@
 
 12. ### 豹形掌 (Bàoxíng zhǎng)
     1. Panterie kruhové údery 豹子轮打 (Bàozi lúndǎ)
-    2. Panter olizuje labu 甜爪掌 (Tiánzhǎo zhǎng)
+    2. Panter olizuje labu 舔爪掌 (Tiánzhǎo zhǎng)
     3. Tri panterie odstrčenia 豹子三扑式 (Bàozi sānpū shì)
     4. Pružiaca laba 弹爪掌 (Dànzhǎo zhǎng)
     5. Skok a vrták 钻跃掌 (Zuānyuè zhǎng)
@@ -124,12 +124,12 @@
 ## Ukončenie
 
 - ### 收拾 (Shōushí)
-    1. Krížový blok 十字包楼 (Shízì bāolóu)
+    1. Krížový blok 十字抱楼 (Shízì bàolóu)
     2. Perla na otvorenom lotose 开莲托珠 (Kāilián tuōzhū)
     3. Modliace ruky 童子拜佛 (Tóngzǐ bàifó)
     4. Spojené dlane vzdávajú poctu predkom 合掌敬祖 (Hézhǎng jìngzǔ)
     5. Naberanie mesiaca z dna mora 海底捞月 (Hǎidǐ lāoyuè)
     6. Vytlačenie mesiaca z brány 推月出门 (Tuīyuè chūmén)
-    7. Vtiahnutie mesiaca do brucha 收月如腹 (Shōuyuè rúfù)
+    7. Vtiahnutie mesiaca do brucha 收月入腹 (Shōuyuè rùfù)
 
 ![Wujiquan logo](/images/Wujiquan_logo.jpeg)
