@@ -10,7 +10,12 @@ module.exports = {
       lang: 'zh-CN',
       title: '无极拳',
       description: '传统武术无极拳',
-    }
+    },
+    '/sk/': {
+      lang: 'sk',
+      title: 'Wujiquan',
+      description: 'Tradičné čínske bojové umenie Wujiquan',
+    },
   },
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -82,6 +87,32 @@ module.exports = {
         ],
         sidebar: {
           '/zh/articles/': genSidebarConfig('文章')
+        }
+      },
+      '/sk/': {
+        lang: 'sk',
+        selectText: 'Zvoľ jazyk',
+        label: 'slovenský',
+        editLinkText: 'Upravte túto stránku v službe Github',
+        nav: [
+          {
+            text: 'články',
+            link: '/sk/articles/'
+          },
+          {
+            text: 'zdroje',
+            items: [
+              { text: 'Jedno pohybová cyklická dlaň', link: '/sk/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+            ],
+          },
+          {
+            text: 'O nás',
+            link: '/about/',
+          },
+        ],
+        sidebar: {
+          '/sk/articles/': genSidebarConfig('články'),
+          '/sk/resources/': genResourcesConfig('zdroje')
         }
       }
     }
