@@ -89,7 +89,7 @@ function genSidebarConfig (title) {
         'master-yu-accepting-disciples-april-2018',
         'class-video',
         'short-term-course-for-health',
-        'master-yang-teaches-health-cultivation'
+        'westerner-teaches-health-cultivation'
       ]
     }
   ]
