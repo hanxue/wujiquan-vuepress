@@ -33,6 +33,12 @@ module.exports = {
             link: '/articles/'
           },
           {
+            text: 'Resources',
+            items: [
+              // { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+            ],
+          },
+          {
             text: 'Beijing',
             link: '/beijing/'
           },
@@ -42,7 +48,8 @@ module.exports = {
           },
         ],
         sidebar: {
-          '/articles/': genSidebarConfig('Articles')
+          '/articles/': genSidebarConfig('Articles'),
+          '/resources/': genResourcesConfig('Resources')
         }
       },
       '/zh/': {
@@ -82,6 +89,19 @@ function genSidebarConfig (title) {
         'master-yu-accepting-disciples-april-2018',
         'class-video',
         'short-term-course-for-health',
+        'master-yang-teaches-health-cultivation'
+      ]
+    }
+  ]
+}
+
+function genResourcesConfig (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        'wujiquan-12-sets-single-posture-cyclic-palm',
       ]
     }
   ]
