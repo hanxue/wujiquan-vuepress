@@ -32,10 +32,19 @@ module.exports = {
             text: 'Articles',
             link: '/articles/'
           },
+          // {
+          //   text: 'Resources',
+          //   items: [
+          //     { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+          //   ],
+          // },
           {
-            text: 'Resources',
+            text: 'Events',
             items: [
-              // { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+              { text: 'Weekend retreat with Master Yu', link: '/events/2018_oct_weekend_retreat' },
+              { text: 'International Kung Fu retreat near Beijing', link: '/events/2018_oct_international_kungu_retreat' },
+              { text: 'Special Classes with Master Yu (October 2018)', link: '/events/2018_oct_special_classes_with_master_yu' },
+              { text: 'Special Summer Programme - 2018', link: '/events/2018_special_summer_programmes' },
             ],
           },
           {
