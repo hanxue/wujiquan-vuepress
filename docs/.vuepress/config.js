@@ -77,6 +77,12 @@ module.exports = {
             link: '/zh/articles/'
           },
           {
+            text: '参考资料',
+            items: [
+              { text: '单式连环掌', link: '/zh/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+            ],
+          },
+          {
             text: '无极拳北京',
             link: '/beijing/'
           },
@@ -86,7 +92,8 @@ module.exports = {
           },
         ],
         sidebar: {
-          '/zh/articles/': genSidebarConfig('文章')
+          '/zh/articles/': genSidebarConfig('文章'),
+          '/zh/resources/': genResourcesConfig('参考资料')
         }
       },
       '/sk/': {
