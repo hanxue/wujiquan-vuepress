@@ -32,6 +32,12 @@ module.exports = {
             text: 'Articles',
             link: '/articles/'
           },
+          // {
+          //   text: 'Resources',
+          //   items: [
+          //     { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+          //   ],
+          // },
           {
             text: 'Resources',
             items: [
