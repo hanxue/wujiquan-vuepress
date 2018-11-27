@@ -41,7 +41,7 @@
     5. Horse kick palm 马蹄掌 (Mǎtí zhǎng)
     6. Sifting palm 筛动掌 (Shāidòng zhǎng)
 
-## 5th Set - Wing and Moon Form
+## 5th Set - Wind and Moon Form
 
 5. ### 风月掌 (Fēngyuè zhǎng)
     1. Three line palm 三线掌 (Sānxiàn zhǎng)

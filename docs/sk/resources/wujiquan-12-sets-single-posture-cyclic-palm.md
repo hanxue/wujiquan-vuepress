@@ -41,7 +41,7 @@
     5. Kopajúci kôň 马蹄掌 (Mǎtí zhǎng)
     6. Osievanie sitom 筛动掌 (Shāidòng zhǎng)
 
-## 5th Set - Wing and Moon Form
+## Vietor a mesiac
 
 5. ### 风月掌 (Fēngyuè zhǎng)
     1. Útok na tri úrovne 三线掌 (Sānxiàn zhǎng)
@@ -51,7 +51,7 @@
     5. Prerážajúci lakeť 肘冲掌 (Zhǒuchōng zhǎng)
     6. Skladanie mesiaca na zem 下月掌 (Xiàyuè zhǎng)
 
-## 6th Set - Praying Mantis Form
+## Modlivka
 
 6. ### 螳螂掌 (Tángláng zhǎng)
     1. Tlačenie a nadvihnutie 推托掌 (Tuītuō zhǎng)
@@ -111,7 +111,7 @@
     5. Tiger skáče 虎跃掌 (Hǔyuè zhǎng)
     6. Tigria chôdza 虎拐掌 (Hǔguǎi zhǎng)
 
-## 12th Set - Panther Form
+## Panter
 
 12. ### 豹形掌 (Bàoxíng zhǎng)
     1. Panterie kruhové údery 豹子轮打 (Bàozi lúndǎ)
