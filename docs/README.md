@@ -16,7 +16,7 @@ footer: Attribution + Noncommercial (BY-NC) | Copyright © 2018-present Internat
 
 ### Wujiquan Fan Workshop
 
-![Wujiquan Fan Workshop](/images/2018-fan-workshop.jpg)
+![Wujiquan Fan Workshop](/images/2018-fan-workshop.webp)
 
 The Chinese Fan 扇子 (Shànzi) can be used as a martial arts weapon, and belong to the short weapons category. The Wujiquan Fan Form is unique in that the moves are aimed at vital points on the body, and is effective in self-defense. 
 
