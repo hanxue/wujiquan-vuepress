@@ -8,8 +8,8 @@
     2. Gúľanie lopty 滚球掌 (Gǔnqiú zhǎng)
     3. Dvojitá vpichujúca dlaň 双插掌 (Shuāngchā zhǎng)
     4. Naťahovanie nudlí /cesta 拉面掌 (Lāmiàn zhǎng)
-    5. Kohúti pazúr 鸡爪掌 (Jīzhuǎ zhǎng)
-    6. Zacviknutá lopta 夹求掌 (Jiāqiú zhǎng)
+    5. Kohúti pazúr 鸡爪掌 (Jīzhǎo zhǎng)
+    6. Zacviknutá lopta 挟球掌 (Jiāqiú zhǎng)
 
 ## Mesiac
 
@@ -58,7 +58,7 @@
     2. Lutna 琵琶掌 (Pípá zhǎng)
     3. Zatlačenie cez chrbát 压背掌 (Yābèi zhǎng)
     4. Predný úder s krytmi 前迎掌 (Qiányíng zhǎng)
-    5. Sekajúca a režúca dlaň 切削掌 (Qiēxiāo zhǎng)
+    5. Sekajúca a režúca dlaň 切削掌 (Qiēxuē zhǎng)
     6. Dvojité odsotenie 双扑掌 (Shuāngpū zhǎng)
 
 ## Drak a fénix
@@ -66,7 +66,7 @@
 7. ### 龙凤掌 (Lóngfèng zhǎng)
     1. Blokujúca a vychyľujúca dlaň 拨挡掌 (Bōdǎng zhǎng)
     2. Porazený krok 败步掌 (Bàibù zhǎng)
-    3. Prepichujúca dlaň 穿梭掌 (Chuānsuō zhǎng)
+    3. Prepichujúca dlaň 串梭掌 (Chuànsuō zhǎng)
     4. Jednoduchá prepichujúca dlaň 单穿掌 (Dānchuān zhǎng)
     5. Drak víri vodu 龙搅水 (Lóngjiǎo shuǐ)
     6. Drak kýve chvostom 龙摆尾 (Lóngbǎi wěi)
@@ -74,7 +74,7 @@
 ## Opica
 
 8. ### 猿形掌 (Yuánxíng zhǎng)
-    1. Zacviknutie a trenie dlaní 挟搓掌 (Xiécuō zhǎng)
+    1. Zacviknutie a trenie dlaní 挟搓掌 (Jiācuō zhǎng)
     2. Roztočenie kolesa 摇轮掌 (Yáolún zhǎng)
     3. Prenášanie lopty 翻球掌 (Fǎnqiú zhǎng)
     4. Odhodenie lopty 丢球掌 (Diūqiú zhǎng)
@@ -83,7 +83,7 @@
 
 ## Had škrtič
 
-9. ### 螨虫掌 (Mǎnchóng zhǎng)
+9. ### 蟒虫掌 (Mǎnchóng zhǎng)
     1. Zachytenie a odhodenie 拿丢掌 (Nádiū zhǎng)
     2. Darovanie lopty 献球掌 (Xiànqiú zhǎng)
     3. Vystreľujúci jazyk hada 吐探掌 (Tǔtàn zhǎng)
@@ -96,18 +96,18 @@
 10. ### 鹤形掌 (Hèxíng zhǎng)
     1. Pozdĺžny vpich 顺插掌 (Shùnchā zhǎng)
     2. Stiahnutie a odhodenie 捋抖掌 (Lǚdǒu zhǎng)
-    3. Krížový blok a kop 棚踢掌 (Péngtī zhǎng)
+    3. Krížový blok a kop 掤踢掌 (Péngtī zhǎng)
     4. Sek a brodenie 劈蹚掌 (Pītāng zhǎng)
     5. Stiahnutie a podmetenie 收扫掌 (Shōusǎo zhǎng)
-    6. Tlačenie lakťom 压肘掌 (Yāzhǒu zhǎng)
+    6. Tlačenie lakťom 接压掌 (Jiēyā zhǎng)
 
 ## Tigrý rev
 
 11. ### 虎啸掌 (Hǔxiào zhǎng)
-    1. Hladný tiger loví potravu 饿虎捕食 (Èhǔ bǔshí)
-    2. Tiger sa vracia a skáče dozadu 虎归后跃 (Hǔguī hòuyuè)
+    1. Hladný tiger loví potravu 饿虎扑食 (Èhǔ pǔshí)
+    2. Tiger sa vracia a skáče dozadu 虎归后跃掌 (Hǔguī hòuyuè zhǎng)
     3. Odstrčenie a kopy 扑足掌 (Pūzú zhǎng)
-    4. Tiger si sadá 虎坐蹲 (Hǔ zuòdūn)
+    4. Tiger si sadá 虎归洞 (Hǔ guīdòng)
     5. Tiger skáče 虎跃掌 (Hǔyuè zhǎng)
     6. Tigria chôdza 虎拐掌 (Hǔguǎi zhǎng)
 
@@ -117,9 +117,9 @@
     1. Panterie kruhové údery 豹子轮打 (Bàozi lúndǎ)
     2. Panter olizuje labu 舔爪掌 (Tiánzhǎo zhǎng)
     3. Tri panterie odstrčenia 豹子三扑式 (Bàozi sānpū shì)
-    4. Pružiaca laba 弹爪掌 (Dànzhǎo zhǎng)
-    5. Skok a vrták 钻跃掌 (Zuānyuè zhǎng)
-    6. Skok a vrták 钻跃掌 (Zuānyuè zhǎng)
+    4. Pružiaca laba 探爪掌 (Tànzhǎo zhǎng)
+    5. Skok a vrták 跃转掌 (Yuèzhuǎn zhǎng)
+    6. Skok a vrták 跃转掌 (Yuèzhuǎn zhǎng)
 
 ## Ukončenie
 

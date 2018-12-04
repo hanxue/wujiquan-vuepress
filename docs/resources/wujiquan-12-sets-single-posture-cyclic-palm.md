@@ -8,8 +8,8 @@
     2. Rolling ball palm 滚球掌 (Gǔnqiú zhǎng)
     3. Double sticking palm 双插掌 (Shuāngchā zhǎng)
     4. Pulling noodles palm 拉面掌 (Lāmiàn zhǎng)
-    5. Rooster claw palm 鸡爪掌 (Jīzhuǎ zhǎng)
-    6. Ball under arm palm 夹求掌 (Jiāqiú zhǎng)
+    5. Rooster claw palm 鸡爪掌 (Jīzhǎo zhǎng)
+    6. Ball under arm palm 挟球掌 (Jiāqiú zhǎng)
 
 ## 2nd Set - Moon Form
 
@@ -58,7 +58,7 @@
     2. Lute palm 琵琶掌 (Pípá zhǎng)
     3. Pressing back palm 压背掌 (Yābèi zhǎng)
     4. Meeting in front palm/Covering and punching palm 前迎掌 (Qiányíng zhǎng)
-    5. Cutting and peeling palm 切削掌 (Qiēxiāo zhǎng)
+    5. Cutting and peeling palm 切削掌 (Qiēxuē zhǎng)
     6. Double shoving palm 双扑掌 (Shuāngpū zhǎng)
 
 ## 7th Set - Dragon and Phoenix Form
@@ -66,7 +66,7 @@
 7. ### 龙凤掌 (Lóngfèng zhǎng)
     1. Diverting palm 拨挡掌 (Bōdǎng zhǎng)
     2. Defeated step palm 败步掌 (Bàibù zhǎng)
-    3. Piercing palm 穿梭掌 (Chuānsuō zhǎng)
+    3. Piercing palm 串梭掌 (Chuànsuō zhǎng)
     4. Single piercing palm 单穿掌 (Dānchuān zhǎng)
     5. Dragon spiraling the water palm 龙搅水 (Lóngjiǎo shuǐ)
     6. Dragon swishing the tail palm 龙摆尾 (Lóngbǎi wěi)
@@ -74,7 +74,7 @@
 ## 8th Set - Ape Form
 
 8. ### 猿形掌 (Yuánxíng zhǎng)
-    1. Clamping and rubbing palm 挟搓掌 (Xiécuō zhǎng)
+    1. Clamping and rubbing palm 挟搓掌 (Jiācuō zhǎng)
     2. Swinging wheel palm 摇轮掌 (Yáolún zhǎng)
     3. Turning  ball palms 翻球掌 (Fǎnqiú zhǎng)
     4. Throwing ball palm 丢球掌 (Diūqiú zhǎng)
@@ -83,7 +83,7 @@
 
 ## 9th Set - Boa/Python Form
 
-9. ### 螨虫掌 (Mǎnchóng zhǎng)
+9. ### 蟒虫掌 (Mǎnchóng zhǎng)
     1. Holding and throwing palm 拿丢掌 (Nádiū zhǎng)
     2. Presenting ball palm 献球掌 (Xiànqiú zhǎng)
     3. Spitting and searching palm 吐探掌 (Tǔtàn zhǎng)
@@ -96,18 +96,18 @@
 10. ### 鹤形掌 (Hèxíng zhǎng)
     1. Sticking alongside palm 顺插掌 (Shùnchā zhǎng)
     2. Planing and shaking palm 捋抖掌 (Lǚdǒu zhǎng)
-    3. Cross-block and kick palm 棚踢掌 (Péngtī zhǎng)
+    3. Cross-block and kick palm 掤踢掌 (Péngtī zhǎng)
     4. Chopping and walking in water palm 劈蹚掌 (Pītāng zhǎng)
     5. Gathering and sweeping palm 收扫掌 (Shōusǎo zhǎng)
-    6. Pressing elbow palm 压肘掌 (Yāzhǒu zhǎng)
+    6. Connecting and pressing palm 接压掌 (Jiēyā zhǎng)
 
 ## 11th Set - Tiger Roar Form
 
 11. ### 虎啸掌 (Hǔxiào zhǎng)
-    1. Hungry tiger hunting for food 饿虎捕食 (Èhǔ bǔshí)
-    2. Tiger returning and jumping backwards 虎归后跃 (Hǔguī hòuyuè)
+    1. Hungry tiger hunting for food 饿虎扑食 (Èhǔ pǔshí)
+    2. Tiger returning and jumping backwards palm 虎归后跃掌 (Hǔguī hòuyuè zhǎng)
     3. Shoving and kicking palm 扑足掌 (Pūzú zhǎng)
-    4. Tiger sitting down palm 虎坐洞 (Hǔ zuòdòng)
+    4. Tiger sitting down palm 虎归洞 (Hǔ guīdòng)
     5. Tiger jumping palm 虎跃掌 (Hǔyuè zhǎng)
     6. Tiger walk palm 虎拐掌 (Hǔguǎi zhǎng)
 
@@ -117,9 +117,9 @@
     1. Panther wheel punches 豹子轮打 (Bàozi lúndǎ)
     2. Licking paw palm 舔爪掌 (Tiánzhǎo zhǎng)
     3. Three panther shoves 豹子三扑式 (Bàozi sānpū shì)
-    4. Springing the paw palm 弹爪掌 (Dànzhǎo zhǎng)
-    5. Jumping drilling palm 钻跃掌 (Zuānyuè zhǎng)
-    6. Jumping drilling palm 钻跃掌 (Zuānyuè zhǎng)
+    4. Springing the paw palm 探爪掌 (Tànzhǎo zhǎng)
+    5. Jumping and turning palm 跃转掌 (Yuèzhuǎn zhǎng)
+    6. Jumping and turning palm 跃转掌 (Yuèzhuǎn zhǎng)
 
 ## Closure
 
