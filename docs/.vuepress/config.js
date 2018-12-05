@@ -162,11 +162,8 @@ function genSlovakArticles (title) {
       collapsable: false,
       children: [
         'chinese-martial-arts-education-method',
-        'master-yu-accepting-disciples-april-2018',
         'healing-in-wujiquan',
         'class-video',
-        'short-term-course-for-health',
-        'westerner-teaches-health-cultivation'
       ]
     }
   ]
