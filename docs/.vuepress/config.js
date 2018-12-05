@@ -114,7 +114,7 @@ module.exports = {
           },
           {
             text: 'O nás',
-            link: '/about/',
+            link: '/sk/about/',
           },
         ],
         sidebar: {
