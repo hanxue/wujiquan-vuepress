@@ -26,6 +26,7 @@ module.exports = {
   themeConfig: {
     repo: '',
     editLinks: true,
+    sidebarDepth: 2,
     docsDir: 'docs',
     locales: {
       '/': {
@@ -118,7 +119,7 @@ module.exports = {
           },
         ],
         sidebar: {
-          '/sk/articles/': genSidebarConfig('články'),
+          '/sk/articles/': genSlovakArticles('články'),
           '/sk/resources/': genResourcesConfig('zdroje')
         }
       }
@@ -149,6 +150,22 @@ function genResourcesConfig (title) {
       collapsable: false,
       children: [
         'wujiquan-12-sets-single-posture-cyclic-palm',
+      ]
+    }
+  ]
+}
+
+function genSlovakArticles (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        'chinese-martial-arts-education-method',
+        'master-yu-accepting-disciples-april-2018',
+        'class-video',
+        'short-term-course-for-health',
+        'westerner-teaches-health-cultivation'
       ]
     }
   ]
