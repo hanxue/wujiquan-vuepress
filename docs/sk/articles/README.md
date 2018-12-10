@@ -1,9 +1,9 @@
-# Wujiquan Articles
+# Wujiquan články
 
-From time to time, we will publish articles about Wujiquan practice and events. Click on the side bar to the left 
+Z času na čas budeme publikovať články o praxi a udalostiach Wujiquan
 
 <img src="/images/arrow_pointing_left.png" alt="Click on Articles on the left" style="width: 258px;"/>
 
-Follow the Official Wechat Wujiquan account to get the latest articles. 
+Postupujte podľa oficiálneho účtu Wechat Wujiquan a získajte najnovšie články.
 
 ![Official Wujiquan Wechat QR Code](/images/wujiquan_qrcode.webp)

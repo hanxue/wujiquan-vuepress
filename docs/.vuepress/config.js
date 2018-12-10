@@ -26,6 +26,7 @@ module.exports = {
   themeConfig: {
     repo: '',
     editLinks: true,
+    sidebarDepth: 2,
     docsDir: 'docs',
     locales: {
       '/': {
@@ -114,11 +115,11 @@ module.exports = {
           },
           {
             text: 'O nás',
-            link: '/about/',
+            link: '/sk/about/',
           },
         ],
         sidebar: {
-          '/sk/articles/': genSidebarConfig('články'),
+          '/sk/articles/': genSlovakArticles('články'),
           '/sk/resources/': genResourcesConfig('zdroje')
         }
       }
@@ -149,6 +150,20 @@ function genResourcesConfig (title) {
       collapsable: false,
       children: [
         'wujiquan-12-sets-single-posture-cyclic-palm',
+      ]
+    }
+  ]
+}
+
+function genSlovakArticles (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        'chinese-martial-arts-education-method',
+        'healing-in-wujiquan',
+        'class-video',
       ]
     }
   ]
