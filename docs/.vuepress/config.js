@@ -90,7 +90,7 @@ module.exports = {
             text: '活动',
             items: [
               { text: '无极拳扇子课程 (12月 2018年)', link: '/zh/events/2018_wujiquan_fan_workshop' },
-              { text: '过去的活动',
+              { text: '往期精彩',
                 items: [
                   { text: '于师父专业课程 (10月 2018年)', link: '/zh/events/2018_oct_special_classes_with_master_yu' },
                   { text: '特别暑期课程 - 2018', link: '/zh/events/2018_special_summer_programmes' },
@@ -115,15 +115,15 @@ module.exports = {
       '/sk/': {
         lang: 'sk',
         selectText: 'Zvoľ jazyk',
-        label: 'slovenský',
+        label: 'Slovenský',
         editLinkText: 'Upravte túto stránku v službe Github',
         nav: [
           {
-            text: 'články',
+            text: 'Články',
             link: '/sk/articles/'
           },
           {
-            text: 'zdroje',
+            text: 'Zdroje',
             items: [
               { text: 'Jedno pohybová cyklická dlaň', link: '/sk/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
             ],
@@ -146,8 +146,8 @@ module.exports = {
           },
         ],
         sidebar: {
-          '/sk/articles/': genSlovakArticles('články'),
-          '/sk/resources/': genResourcesConfig('zdroje')
+          '/sk/articles/': genSlovakArticles('Články'),
+          '/sk/resources/': genResourcesConfig('Zdroje')
         }
       }
     }
