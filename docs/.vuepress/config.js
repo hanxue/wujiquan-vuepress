@@ -42,6 +42,7 @@ module.exports = {
             text: 'Resources',
             items: [
               { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+              { text: '8 Pieces of Brocade', link: '/resources/wujiquan-8-pieces-of-brocade' },
             ],
           },
           {
@@ -84,6 +85,7 @@ module.exports = {
             text: '参考资料',
             items: [
               { text: '单式连环掌', link: '/zh/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+              { text: '八段锦', link: '/resources/zh/wujiquan-8-pieces-of-brocade' },
             ],
           },
           {
@@ -126,6 +128,7 @@ module.exports = {
             text: 'Zdroje',
             items: [
               { text: 'Jedno pohybová cyklická dlaň', link: '/sk/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+              { text: '8 Kusov Brokátu', link: '/sk/resources/wujiquan-8-pieces-of-brocade' },
             ],
           },
           {
@@ -177,6 +180,7 @@ function genResourcesConfig (title) {
       collapsable: false,
       children: [
         'wujiquan-12-sets-single-posture-cyclic-palm',
+        'wujiquan-8-pieces-of-brocade',
       ]
     }
   ]
