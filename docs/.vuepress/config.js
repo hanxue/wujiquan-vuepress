@@ -43,6 +43,7 @@ module.exports = {
             items: [
               { text: 'Single posture cyclic palm (12 Sets)', link: '/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
               { text: '8 Pieces of Brocade', link: '/resources/wujiquan-8-pieces-of-brocade' },
+              { text: '6 Healing Sounds', link: '/resources/wujiquan-6-healing-sounds' },
             ],
           },
           {
@@ -85,7 +86,8 @@ module.exports = {
             text: '参考资料',
             items: [
               { text: '单式连环掌', link: '/zh/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
-              { text: '八段锦', link: '/resources/zh/wujiquan-8-pieces-of-brocade' },
+              { text: '八段锦', link: '/zh/resources/wujiquan-8-pieces-of-brocade' },
+              { text: '六字诀', link: '/zh/resources/wujiquan-6-healing-sounds' },
             ],
           },
           {
@@ -129,6 +131,7 @@ module.exports = {
             items: [
               { text: 'Jedno pohybová cyklická dlaň', link: '/sk/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
               { text: '8 Kusov Brokátu', link: '/sk/resources/wujiquan-8-pieces-of-brocade' },
+              { text: '6 Hojivých Zvukov', link: '/sk/resources/wujiquan-6-healing-sounds' },
             ],
           },
           {
@@ -181,6 +184,7 @@ function genResourcesConfig (title) {
       children: [
         'wujiquan-12-sets-single-posture-cyclic-palm',
         'wujiquan-8-pieces-of-brocade',
+        'wujiquan-6-healing-sounds',
       ]
     }
   ]
