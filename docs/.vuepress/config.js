@@ -47,10 +47,13 @@ module.exports = {
           {
             text: 'Events',
             items: [
-              { text: 'Weekend retreat with Master Yu', link: '/events/2018_oct_weekend_retreat' },
-              { text: 'International Kung Fu retreat near Beijing', link: '/events/2018_oct_international_kungu_retreat' },
-              { text: 'Special Classes with Master Yu (October 2018)', link: '/events/2018_oct_special_classes_with_master_yu' },
-              { text: 'Special Summer Programme - 2018', link: '/events/2018_special_summer_programmes' },
+              { text: 'Wujiquan Fan Workshop (Dec 2018)', link: '/events/2018_wujiquan_fan_workshop' },
+              { text: 'Past Events',
+                items: [
+                  { text: 'Special Classes with Master Yu (October 2018)', link: '/events/2018_oct_special_classes_with_master_yu' },
+                  { text: 'Special Summer Programme - 2018', link: '/events/2018_special_summer_programmes' },
+                ],
+              },
             ],
           },
           {
@@ -84,6 +87,18 @@ module.exports = {
             ],
           },
           {
+            text: '活动',
+            items: [
+              { text: '无极拳扇子课程 (12月 2018年)', link: '/zh/events/2018_wujiquan_fan_workshop' },
+              { text: '过去的活动',
+                items: [
+                  { text: '于师父专业课程 (10月 2018年)', link: '/zh/events/2018_oct_special_classes_with_master_yu' },
+                  { text: '特别暑期课程 - 2018', link: '/zh/events/2018_special_summer_programmes' },
+                ],
+              },
+            ],
+          },
+          {
             text: '无极拳北京',
             link: '/beijing/'
           },
@@ -111,6 +126,18 @@ module.exports = {
             text: 'zdroje',
             items: [
               { text: 'Jedno pohybová cyklická dlaň', link: '/sk/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
+            ],
+          },
+          {
+            text: 'Najnovšie Udalosti',
+            items: [
+              { text: 'Wujiquan Sklopný Seminár (Dec 2018)', link: '/sk/events/2018_wujiquan_fan_workshop' },
+              { text: 'Minulé Udalosti',
+                items: [
+                  { text: 'Špeciálne triedy s Master Yu (October 2018)', link: '/sk/events/2018_oct_special_classes_with_master_yu' },
+                  { text: 'Špeciálny letný program - 2018', link: '/sk/events/2018_special_summer_programmes' },
+                ],
+              },
             ],
           },
           {
