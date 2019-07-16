@@ -83,7 +83,7 @@
 
 ## 9th Set - Boa/Python Form
 
-9. ### 蟒虫掌 (Mǎnchóng zhǎng)
+9. ### 蟒虫掌 (Mǎngchóng zhǎng)
     1. Holding and throwing palm 拿丢掌 (Nádiū zhǎng)
     2. Presenting ball palm 献球掌 (Xiànqiú zhǎng)
     3. Spitting and searching palm 吐探掌 (Tǔtàn zhǎng)
