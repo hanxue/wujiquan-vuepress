@@ -83,7 +83,7 @@
 
 ## Had škrtič
 
-9. ### 蟒虫掌 (Mǎnchóng zhǎng)
+9. ### 蟒虫掌 (Mǎngchóng zhǎng)
     1. Zachytenie a odhodenie 拿丢掌 (Nádiū zhǎng)
     2. Darovanie lopty 献球掌 (Xiànqiú zhǎng)
     3. Vystreľujúci jazyk hada 吐探掌 (Tǔtàn zhǎng)

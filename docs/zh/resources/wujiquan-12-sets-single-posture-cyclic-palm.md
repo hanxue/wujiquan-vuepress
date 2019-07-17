@@ -66,7 +66,7 @@
 5. 迎砍掌 (Yíngkǎn zhǎng)
 6. 掏心掌 (Tāoxīn zhǎng)
 
-## 9. 蟒虫掌 (Mǎnchóng zhǎng)
+## 9. 蟒虫掌 (Mǎngchóng zhǎng)
 1. 拿丢掌 (Nádiū zhǎng)
 2. 献球掌 (Xiànqiú zhǎng)
 3. 吐探掌 (Tǔtàn zhǎng)
