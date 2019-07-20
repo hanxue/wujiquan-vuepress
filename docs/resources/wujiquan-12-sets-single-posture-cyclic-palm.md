@@ -11,6 +11,8 @@
     5. Rooster claw palm 鸡爪掌 (Jīzhǎo zhǎng)
     6. Ball under arm palm 挟球掌 (Jiāqiú zhǎng)
 
+[1st Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/1%20%E9%B8%A1%E8%A1%8C%E6%8E%8C%20Rooster%20Form,%20Ji%20Xing%20Zhang.m4v)
+
 ## 2nd Set - Moon Form
 
 2. ### 月形掌 (Yuèxíng zhǎng)
@@ -20,6 +22,8 @@
     4. Charging palm 冲创掌 (Chōngchuàng zhǎng)
     5. Hooks on ears palm 挂耳掌 (Guàěr zhǎng)
     6. Pressing and drilling palm 按钻掌 (Ànzuān zhǎng)
+
+[2nd Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/2%20%E6%9C%88%E5%BD%A2%E6%8E%8C%20Moon%20Form,%20Yue%20Xing%20Zhang.m4v)
 
 ## 3rd Set - Snake Form
 
@@ -31,6 +35,8 @@
     5. Elbow to ribs palm 肋肘掌 (Lēizhǒu zhǎng)
     6. Horizontal palm 横向掌 (Héngxiàng zhǎng)
 
+[3rd Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/3%20%E8%9B%87%E5%BD%A2%E6%8E%8C%20Snake%20Form,%20She%20Xing%20Zhang.m4v)
+
 ## 4th Set - Horse and Sparrow Form
 
 4. ### 马燕掌 (Mǎyàn zhǎng)
@@ -40,6 +46,8 @@
     4. Double planing/peeling palm 双捋掌 (Shuānglǚ zhǎng)
     5. Horse kick palm 马蹄掌 (Mǎtí zhǎng)
     6. Sifting palm 筛动掌 (Shāidòng zhǎng)
+
+[4th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/4%20%E9%A9%AC%E7%87%95%E6%8E%8C%20%20Horse%20and%20Sparrow%20Form,%20Ma%20Yan%20Zhang.m4v)
 
 ## 5th Set - Wind and Moon Form
 
@@ -51,6 +59,8 @@
     5. Charging elbow palm 肘冲掌 (Zhǒuchōng zhǎng)
     6. Putting Moon down palm 下月掌 (Xiàyuè zhǎng)
 
+[5th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/5%20%E9%A3%8E%E6%9C%88%E6%8E%8C%20Wind%20and%20Moon%20Form,%20Feng%20Yue%20Zhang.m4v)
+
 ## 6th Set - Praying Mantis Form
 
 6. ### 螳螂掌 (Tángláng zhǎng)
@@ -60,6 +70,8 @@
     4. Meeting in front palm/Covering and punching palm 前迎掌 (Qiányíng zhǎng)
     5. Cutting and peeling palm 切削掌 (Qiēxuē zhǎng)
     6. Double shoving palm 双扑掌 (Shuāngpū zhǎng)
+
+[6th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/6%20%E8%9E%B3%E8%9E%82%E6%8E%8C%20Praying%20Mantis%20Form,%20Tang%20Lang%20Zhang.m4v)
 
 ## 7th Set - Dragon and Phoenix Form
 
@@ -71,6 +83,8 @@
     5. Dragon spiraling the water palm 龙搅水 (Lóngjiǎo shuǐ)
     6. Dragon swishing the tail palm 龙摆尾 (Lóngbǎi wěi)
 
+[7th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/7%20%E9%BE%99%E5%87%A4%E6%8E%8C,%20Dragon%20and%20Pheonix%20Form,%20Long%20Feng%20Zhang.m4v)
+
 ## 8th Set - Ape Form
 
 8. ### 猿形掌 (Yuánxíng zhǎng)
@@ -80,6 +94,8 @@
     4. Throwing ball palm 丢球掌 (Diūqiú zhǎng)
     5. Meeting and cutting palm 迎砍掌 (Yíngkǎn zhǎng)
     6. Ripping heart out palm 掏心掌 (Tāoxīn zhǎng)
+
+[8th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/8%20%E7%8C%BF%E5%BD%A2%E6%8E%8C%20%20Ape%20Form,%20Yuan%20Xing%20Zhang.m4v)
 
 ## 9th Set - Boa/Python Form
 
@@ -91,6 +107,8 @@
     5. Swinging wrist palm 腕绕掌 (Wànrào zhǎng)
     6. Wrapping body palm/Snake wraps the body 缠身掌 (Chánshēn zhǎng)
 
+[9th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/9%20%E8%9F%92%E8%99%AB%E6%8E%8C%20Boa-Python%20Form,%20Man%20Chong%20Zhang.m4v)
+
 ## 10th Set - Crane Form
 
 10. ### 鹤形掌 (Hèxíng zhǎng)
@@ -100,6 +118,8 @@
     4. Chopping and walking in water palm 劈蹚掌 (Pītāng zhǎng)
     5. Gathering and sweeping palm 收扫掌 (Shōusǎo zhǎng)
     6. Connecting and pressing palm 接压掌 (Jiēyā zhǎng)
+
+[10th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/10%20%E9%B9%A4%E5%BD%A2%E6%8E%8C%20Crane%20Form,%20He%20Xing%20Zhang.mp4)
 
 ## 11th Set - Tiger Roar Form
 
@@ -111,6 +131,8 @@
     5. Tiger jumping palm 虎跃掌 (Hǔyuè zhǎng)
     6. Tiger walk palm 虎拐掌 (Hǔguǎi zhǎng)
 
+[11th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/11%20%E8%99%8E%E5%95%B8%E6%8E%8C%20%20Tiger%20Roar%20Form,%20Hu%20Xiao%20Zhang.mp4)
+
 ## 12th Set - Panther Form
 
 12. ### 豹形掌 (Bàoxíng zhǎng)
@@ -120,6 +142,9 @@
     4. Springing the paw palm 探爪掌 (Tànzhǎo zhǎng)
     5. Jumping and turning palm 跃转掌 (Yuèzhuǎn zhǎng)
     6. Jumping and turning palm 跃转掌 (Yuèzhuǎn zhǎng)
+
+[12th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/12%20%E8%B1%B9%E5%BD%A2%E6%8E%8C,%20Panther%20Form,%20Bao%20Xing%20Zhang.mp4)
+
 
 ## Closure
 
