@@ -9,10 +9,10 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "global": "^4.3.2",
-    "netlify-cli": "^1.2.2"
+    "global": "^4.4.0",
+    "netlify-cli": "2.11.29"
   },
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.24"
+    "vuepress": "^1.0.2"
   }
 }
