@@ -23,3 +23,5 @@ Wujiquan was passed down in the family of **Grandmaster Wu Zhenshi** for six gen
 Follow the Official Wechat Wujiquan page to get updated with the latest activities
 
 ![Official Wujiquan Wechat QR Code](/images/wujiquan_qrcode.webp)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89682113-73f5-450b-a67e-56d22a44c041/deploy-status)](https://app.netlify.com/sites/wujiquan/deploys)
