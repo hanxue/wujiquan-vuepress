@@ -20,6 +20,7 @@ module.exports = {
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['link', { rel: 'icon', href: '/wujiquan-16x16.png' }],
   ],
   serviceWorker: true,
   // theme: 'vue',
