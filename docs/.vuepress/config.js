@@ -23,6 +23,16 @@ module.exports = {
     ['link', { rel: 'icon', href: '/wujiquan-16x16.png' }],
   ],
   serviceWorker: true,
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-html5-embed'), {
+        html5embed: {
+          useImageSyntax: true,
+          useLinkSyntax: false
+        }
+      })
+    }
+  },
   // theme: 'vue',
   themeConfig: {
     repo: '',
