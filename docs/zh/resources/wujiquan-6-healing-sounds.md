@@ -37,3 +37,5 @@
 
 ## 6. 三焦
 声音: Szì (寺)
+
+![六字诀视频](https://wujiquan.sgp1.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds.mp4)

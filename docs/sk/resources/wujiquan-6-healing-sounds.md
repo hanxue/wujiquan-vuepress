@@ -38,3 +38,5 @@ Positive emotions: Trust, openness and honesty
 
 ## 6. Triple Burner
 Sound: Szì (寺)
+
+![6 healing sounds video](https://wujiquan.sgp1.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds.mp4)
