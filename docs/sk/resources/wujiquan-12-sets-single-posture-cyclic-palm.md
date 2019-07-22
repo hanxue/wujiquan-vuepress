@@ -11,6 +11,8 @@
     5. Kohúti pazúr 鸡爪掌 (Jīzhǎo zhǎng)
     6. Zacviknutá lopta 挟球掌 (Jiāqiú zhǎng)
 
+![1st Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/1%20%E9%B8%A1%E8%A1%8C%E6%8E%8C%20Rooster%20Form,%20Ji%20Xing%20Zhang.m4v)
+
 ## Mesiac
 
 2. ### 月形掌 (Yuèxíng zhǎng)
@@ -20,6 +22,8 @@
     4. Prenikajúca/prerážajúca dlaň 冲创掌 (Chōngchuàng zhǎng)
     5. Háky na uši 挂耳掌 (Guàěr zhǎng)
     6. Zatláčajúca a vŕtajúca dlaň 按钻掌 (Ànzuān zhǎng)
+
+![2nd Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/2%20%E6%9C%88%E5%BD%A2%E6%8E%8C%20Moon%20Form,%20Yue%20Xing%20Zhang.m4v)
 
 ## Had
 
@@ -31,6 +35,8 @@
     5. Lakeť na rebrá 肋肘掌 (Lēizhǒu zhǎng)
     6. Horizontálna dlaň 横向掌 (Héngxiàng zhǎng)
 
+![3rd Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/3%20%E8%9B%87%E5%BD%A2%E6%8E%8C%20Snake%20Form,%20She%20Xing%20Zhang.m4v)
+
 ## Kôň a lastovička
 
 4. ### 马燕掌 (Mǎyàn zhǎng)
@@ -40,6 +46,8 @@
     4. Hoblík 双捋掌 (Shuānglǚ zhǎng)
     5. Kopajúci kôň 马蹄掌 (Mǎtí zhǎng)
     6. Osievanie sitom 筛动掌 (Shāidòng zhǎng)
+
+![4th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/4%20%E9%A9%AC%E7%87%95%E6%8E%8C%20%20Horse%20and%20Sparrow%20Form,%20Ma%20Yan%20Zhang.m4v)
 
 ## Vietor a mesiac
 
@@ -51,6 +59,8 @@
     5. Prerážajúci lakeť 肘冲掌 (Zhǒuchōng zhǎng)
     6. Skladanie mesiaca na zem 下月掌 (Xiàyuè zhǎng)
 
+![5th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/5%20%E9%A3%8E%E6%9C%88%E6%8E%8C%20Wind%20and%20Moon%20Form,%20Feng%20Yue%20Zhang.m4v)
+
 ## Modlivka
 
 6. ### 螳螂掌 (Tángláng zhǎng)
@@ -60,6 +70,8 @@
     4. Predný úder s krytmi 前迎掌 (Qiányíng zhǎng)
     5. Sekajúca a režúca dlaň 切削掌 (Qiēxuē zhǎng)
     6. Dvojité odsotenie 双扑掌 (Shuāngpū zhǎng)
+
+![6th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/6%20%E8%9E%B3%E8%9E%82%E6%8E%8C%20Praying%20Mantis%20Form,%20Tang%20Lang%20Zhang.m4v)
 
 ## Drak a fénix
 
@@ -71,6 +83,8 @@
     5. Drak víri vodu 龙搅水 (Lóngjiǎo shuǐ)
     6. Drak kýve chvostom 龙摆尾 (Lóngbǎi wěi)
 
+![7th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/7%20%E9%BE%99%E5%87%A4%E6%8E%8C,%20Dragon%20and%20Pheonix%20Form,%20Long%20Feng%20Zhang.m4v)
+
 ## Opica
 
 8. ### 猿形掌 (Yuánxíng zhǎng)
@@ -80,6 +94,8 @@
     4. Odhodenie lopty 丢球掌 (Diūqiú zhǎng)
     5. Vyjsť v ústrety a seknúť 迎砍掌 (Yíngkǎn zhǎng)
     6. Vytrhnutie srdca 掏心掌 (Tāoxīn zhǎng)
+
+![8th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/8%20%E7%8C%BF%E5%BD%A2%E6%8E%8C%20%20Ape%20Form,%20Yuan%20Xing%20Zhang.m4v)
 
 ## Had škrtič
 
@@ -91,6 +107,8 @@
     5. Krúženie zápästím 腕绕掌 (Wànrào zhǎng)
     6. Ovíjanie tela/ Had ovíja telo 缠身掌 (Chánshēn zhǎng)
 
+![9th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/9%20%E8%9F%92%E8%99%AB%E6%8E%8C%20Boa-Python%20Form,%20Man%20Chong%20Zhang.m4v)
+
 ## Žeriav
 
 10. ### 鹤形掌 (Hèxíng zhǎng)
@@ -100,6 +118,8 @@
     4. Sek a brodenie 劈蹚掌 (Pītāng zhǎng)
     5. Stiahnutie a podmetenie 收扫掌 (Shōusǎo zhǎng)
     6. Tlačenie lakťom 接压掌 (Jiēyā zhǎng)
+
+![10th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/10%20%E9%B9%A4%E5%BD%A2%E6%8E%8C%20Crane%20Form,%20He%20Xing%20Zhang.mp4)
 
 ## Tigrý rev
 
@@ -111,6 +131,8 @@
     5. Tiger skáče 虎跃掌 (Hǔyuè zhǎng)
     6. Tigria chôdza 虎拐掌 (Hǔguǎi zhǎng)
 
+![11th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/11%20%E8%99%8E%E5%95%B8%E6%8E%8C%20%20Tiger%20Roar%20Form,%20Hu%20Xiao%20Zhang.mp4)
+
 ## Panter
 
 12. ### 豹形掌 (Bàoxíng zhǎng)
@@ -120,6 +142,8 @@
     4. Pružiaca laba 探爪掌 (Tànzhǎo zhǎng)
     5. Skok a vrták 跃转掌 (Yuèzhuǎn zhǎng)
     6. Skok a vrták 跃转掌 (Yuèzhuǎn zhǎng)
+
+![12th Set video](https://wujiquan.sgp1.digitaloceanspaces.com/12-sets/12%20%E8%B1%B9%E5%BD%A2%E6%8E%8C,%20Panther%20Form,%20Bao%20Xing%20Zhang.mp4)
 
 ## Ukončenie
 
