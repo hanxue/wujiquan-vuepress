@@ -148,9 +148,10 @@ module.exports = {
           {
             text: 'Najnovšie Udalosti',
             items: [
-              { text: 'Wujiquan Sklopný Seminár (Dec 2018)', link: '/sk/events/2018_wujiquan_fan_workshop' },
+              { text: 'Brezno Seminár (Sep 2019)', link: '/events/2019_sep_workshop_brezno' },
               { text: 'Minulé Udalosti',
                 items: [
+                  { text: 'Wujiquan Sklopný Seminár (Dec 2018)', link: '/sk/events/2018_wujiquan_fan_workshop' },
                   { text: 'Špeciálne triedy s Master Yu (October 2018)', link: '/sk/events/2018_oct_special_classes_with_master_yu' },
                   { text: 'Špeciálny letný program - 2018', link: '/sk/events/2018_special_summer_programmes' },
                 ],
