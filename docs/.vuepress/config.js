@@ -60,9 +60,10 @@ module.exports = {
           {
             text: 'Events',
             items: [
-              { text: 'Wujiquan Fan Workshop (Dec 2018)', link: '/events/2018_wujiquan_fan_workshop' },
+              { text: 'Brezno Workshop (Sep 2019)', link: '/events/2019_sep_workshop_brezno' },
               { text: 'Past Events',
                 items: [
+                  { text: 'Wujiquan Fan Workshop (Dec 2018)', link: '/events/2018_wujiquan_fan_workshop' },
                   { text: 'Special Classes with Master Yu (October 2018)', link: '/events/2018_oct_special_classes_with_master_yu' },
                   { text: 'Special Summer Programme - 2018', link: '/events/2018_special_summer_programmes' },
                 ],
@@ -104,9 +105,10 @@ module.exports = {
           {
             text: '活动',
             items: [
-              { text: '无极拳扇子课程 (12月 2018年)', link: '/zh/events/2018_wujiquan_fan_workshop' },
+              { text: 'Brezno 课程 (9月2019年)', link: '/zh/events/2019_sep_workshop_brezno' },
               { text: '往期精彩',
                 items: [
+                  { text: '无极拳扇子课程 (12月 2018年)', link: '/zh/events/2018_wujiquan_fan_workshop' },
                   { text: '于师父专业课程 (10月 2018年)', link: '/zh/events/2018_oct_special_classes_with_master_yu' },
                   { text: '特别暑期课程 - 2018', link: '/zh/events/2018_special_summer_programmes' },
                 ],
@@ -148,9 +150,10 @@ module.exports = {
           {
             text: 'Najnovšie Udalosti',
             items: [
-              { text: 'Wujiquan Sklopný Seminár (Dec 2018)', link: '/sk/events/2018_wujiquan_fan_workshop' },
+              { text: 'Brezno Seminár (Sep 2019)', link: '/sk/events/2019_sep_workshop_brezno' },
               { text: 'Minulé Udalosti',
                 items: [
+                  { text: 'Wujiquan Sklopný Seminár (Dec 2018)', link: '/sk/events/2018_wujiquan_fan_workshop' },
                   { text: 'Špeciálne triedy s Master Yu (October 2018)', link: '/sk/events/2018_oct_special_classes_with_master_yu' },
                   { text: 'Špeciálny letný program - 2018', link: '/sk/events/2018_special_summer_programmes' },
                 ],

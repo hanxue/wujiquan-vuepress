@@ -1,42 +1,14 @@
 # 6 Hojivých Zvukov
 ### 六字诀 (Liùzìjué) 
 
-## 1. Lungs
-Sound: Xià (吓)
-Element: Metal (金)
-Color: White
-Negative emotions: Sadness and depression
-Positive emotions: Courage and righteousness
-
-## 2. Kidneys
-Sound: Chuī (吹)
-Element: Water (水)
-Color: Black
-Negative emotions: Fear
-Positive emotions: Gentleness and kindness
-
-## 3. Liver
-Sound: Xū (虚)
-Element: Wood (木)
-Color: Green
-Negative emotions: Anger, jealousy and judgement
-Positive emotions: Decisiveness and Kindness
-
-## 4. Heart
-Sound: Ké (咳)
-Element: Fire (火)
-Color: Red
-Negative emotions: Hatred, cruelty, impatience, pride and arrogance
-Positive emotions: Love, joy and happiness
-
-## 5. Spleen
-Sound: Hū (呼)
-Element: Earth (土)
-Color: Yellow
-Negative emotions: Worry, overthinking and obsessiveness
-Positive emotions: Trust, openness and honesty
-
-## 6. Triple Burner
-Sound: Szì (寺)
+| P.č. | Orgán        | Zvuk   | Záporná emócia | Kladná emócia | Živel        | Farba/Svetlo | Názov pohybu          | 
+| - |------------- |---------| ------------------------------ | ----------------- | -------------- | --------- | ------------------------- |
+| 1 | Pľúca         | Šia (吓)  | depresia, smútok,  žiaľ | odvaha, spravodlivosť, voľnosť
+ | Kov   | Žiarivá biela | Otvorenie dverí                             |
+| 2 | Obličky       | Čchuei (吹) | strach, stres, nervozita | jemnosť, pokoj, neha | Voda   | Žiarivá čierna/tmavo modrá | Lievik                                |
+| 3 | Pečeň       | Šü (虚) | hnev, zlosť, zúrivosť, závisť, žiarlivosť, tvrdohlavosť, odpor | láskavosť, dobroprajnosť, štedrosť, radostivosť, rozhodnosť | Drevo  | Žiarivá zelená | Zrkadlá pred oči                      |
+| 4 | Srdce     | Kch (咳) | nenávisť, netrpezlivosť, pýcha, mánia, krutosť | láska, súcit, radosť, šťastie, pokora, úcta, vďačnosť  | Oheň  | Žiarivá červená | Modliace sa ruky                   |
+| 5 | Slezina      | Chu (呼) | obavy, starosti, trápenie, sebaľútosť, hanba, pocit menejcennosti | otvorenosť, poctivosť, viera v dobrý priebeh osudu  | Zem  | Žiarivá žltá | Strieška                   |
+| 6 | Trojitý ohrievač (dutiny) | Sz (寺) | -                           | -                                           | -      | -               | Oboma rukami vytláčať nebesá a hladiť trojitý žiarič |
 
 ![6 healing sounds video](https://wujiquan.sgp1.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds.mp4)
