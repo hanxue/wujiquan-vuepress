@@ -202,6 +202,7 @@ function genResourcesConfig (title) {
         'wujiquan-12-sets-single-posture-cyclic-palm',
         'wujiquan-8-pieces-of-brocade',
         'wujiquan-6-healing-sounds',
+        'wujiquan-5-animals-qigong',
       ]
     }
   ]

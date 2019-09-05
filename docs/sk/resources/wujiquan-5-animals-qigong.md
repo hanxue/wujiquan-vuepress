@@ -1,6 +1,4 @@
 # Čchi kung 5 zvierat
-### 无极拳五禽功
-### 单式连环掌 (Dānshì liánhuán zhǎng)
 
 ## 1. Set
 
