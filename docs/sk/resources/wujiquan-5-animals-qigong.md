@@ -2,7 +2,7 @@
 
 ## 1. Set
 
-1. Medveia facka
+1. Medvedia facka
 2. Prepichujúca dlaň
 3. Tigria chôdza
 4. Opica oberá broskyňu

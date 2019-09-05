@@ -3,7 +3,7 @@
 
 ## 第一套
 
-1. 熊拍张  (Xióngpāi zhāng)
+1. 熊拍掌  (Xióngpāi zhāng)
 2. 穿梭掌 (Chuānsuō zhǎng)
 3. 虎拐掌 (Hǔguǎi zhǎng)
 4. 猿猴摘桃 (Yuánhóu zhāitáo)

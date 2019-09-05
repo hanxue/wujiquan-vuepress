@@ -1,4 +1,4 @@
-# 6 Hojivých Zvukov
+# 6 Liečivých Zvukov
 ### 六字诀 (Liùzìjué) 
 
 | P.č. | Orgán        | Zvuk   | Záporná emócia | Kladná emócia | Živel        | Farba/Svetlo | Názov pohybu          | 

@@ -146,7 +146,7 @@ module.exports = {
             items: [
               { text: 'Jedno pohybová cyklická dlaň', link: '/sk/resources/wujiquan-12-sets-single-posture-cyclic-palm' },
               { text: '8 Kusov Brokátu', link: '/sk/resources/wujiquan-8-pieces-of-brocade' },
-              { text: '6 Hojivých Zvukov', link: '/sk/resources/wujiquan-6-healing-sounds' },
+              { text: '6 Liečivých zvukov', link: '/sk/resources/wujiquan-6-healing-sounds' },
               { text: 'Čchi kung 5 zvierat', link: '/sk/resources/wujiquan-5-animals-qigong' },
             ],
           },
