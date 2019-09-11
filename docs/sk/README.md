@@ -14,6 +14,23 @@ features:
 footer: Attribution + Noncommercial (BY-NC) | Copyright © 2018-present Medzinárodná asociácia Fumin Wujiquan
 ---
 
+## Čínske zdravotné cvičenia Čchi-kung
+### Sobota 5.10.2019
+
+<div id="container">
+<img src="/images/Slovakia_oct_2019_seminar.jpg" alt="Slovakia Oct 2019 Seminar" />
+</div>
+
+Rimavská Sobota, Kurinec - Zelená voda
+
+Bezplatné spoločné cvičenie a teória (netreba žiadne predchádzajúce skúsenosti)
+
+Čínske zdravotné a život kultivujúce cvičenia medzi ktoré patrí Čchi kung (Qi gong) a Vnútorné Kung fu (napr. Taichi) sú v Číne praktikované už viac ako 5000 rokov. V posledných desaťročiach si vďaka svojej účinnosti získali uznanie a obľubu aj v západných krajinách. Existuje mnoho klinických štúdií vykonaných prestížnymi inštitúciami na svete (napr. Harvardská Univerzita), ktoré potvrdzujú ich blahodarné účinky na zdravie, prevenciu a kontrolu mnohých chorôb, ako sú napr. vysoký a nízky krvný tlak, ochorenia pohybového ústrojenstva, osteoporóza, a mnohé ďalšie.
+
+Tieto cvičenia využívajú šetrný pohyb, zameraný na otvorenie kĺbov a rozhýbanie chrbtice, spojený s uvedomelým dýchaním a zámerom, ktorý usmerňuje silu a dych. Dlhodobé cvičenie uvoľňuje a zvláčňuje telo, upokojuje myseľ a vylaďuje emócie.
+
+S cvičením vás zoznámi Marián Laššák, ktorý v Číne prežil 10 rokov, počas ktorých sa venoval hlavne štúdiu a výučbe čínkeho jazyka, bojových umení a zdravotných cvičení.
+
 ## Rozvrh -  1. September 2019
 
 
