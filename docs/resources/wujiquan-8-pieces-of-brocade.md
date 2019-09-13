@@ -24,3 +24,5 @@
 
 ## 8. 5 fatigues and 7 hurts，looking backwards
 五劳七伤往后瞧 (Wǔláo qīshāng wǎnghòuqiáo)
+
+![Wujiquan 8 Pieces of Video](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/8-brocades/wujiquan-8-pieces-of-brocade.mp4)
