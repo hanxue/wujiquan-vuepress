@@ -56,6 +56,7 @@ module.exports = {
               { text: '8 Pieces of Brocade', link: '/resources/wujiquan-8-pieces-of-brocade' },
               { text: '6 Healing Sounds', link: '/resources/wujiquan-6-healing-sounds' },
               { text: '5 Animals Qigong', link: '/resources/wujiquan-5-animals-qigong' },
+              { text: 'Immortal Palm', link: '/resources/wujiquan-immortal-palm' },
             ],
           },
           {
@@ -102,6 +103,7 @@ module.exports = {
               { text: '八段锦', link: '/zh/resources/wujiquan-8-pieces-of-brocade' },
               { text: '六字诀', link: '/zh/resources/wujiquan-6-healing-sounds' },
               { text: '无极拳五禽功', link: '/zh/resources/wujiquan-5-animals-qigong' },
+              { text: 'Immortal Palm', link: '/zh/resources/wujiquan-immortal-palm' }, 
             ],
           },
           {
@@ -148,6 +150,7 @@ module.exports = {
               { text: '8 Kusov Brokátu', link: '/sk/resources/wujiquan-8-pieces-of-brocade' },
               { text: '6 Liečivých zvukov', link: '/sk/resources/wujiquan-6-healing-sounds' },
               { text: 'Čchi kung 5 zvierat', link: '/sk/resources/wujiquan-5-animals-qigong' },
+              { text: 'Dlaň dlhovekého', link: '/sk/resources/wujiquan-immortal-palm' },
             ],
           },
           {
@@ -203,6 +206,7 @@ function genResourcesConfig (title) {
         'wujiquan-8-pieces-of-brocade',
         'wujiquan-6-healing-sounds',
         'wujiquan-5-animals-qigong',
+        'wujiquan-immortal-palm'
       ]
     }
   ]
