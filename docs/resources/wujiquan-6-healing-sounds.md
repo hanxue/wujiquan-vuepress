@@ -6,7 +6,7 @@
 | 1 | Lungs         | Xià (吓)  | sadness, depression | courage, righteousness | Metal   | Shining white | Opening the door                               |
 | 2 | Kidneys       | Chuī (吹) | fear, stress | gentleness, calmness, wisdom | Water   | Shining black/dark blue | Amplifier                                |
 | 3 | Liver       | Xū (嘘) | rage, anger, jelousy, stubborness, criticisim | kindness, generosity, decisiveness | Wood  | Shining green | Mirrors in front of eyes                      |
-| 4 | Heart     | Ké (呬) | hatred, cruelty, mania, arrogance, impatiance | love, respect, happiness, joy, compassion, gratitude, humbleness  | Fire  | Shining red | Praying hands                   |
+| 4 | Heart     | Kē (呬) | hatred, cruelty, mania, arrogance, impatiance | love, respect, happiness, joy, compassion, gratitude, humbleness  | Fire  | Shining red | Praying hands                   |
 | 5 | Spleen      | Hū (呼) | worry, self-pity, shame, doubt | openness, fairness, trust, strong intent  | Earth  | Shining yellow | Roof                   |
 | 6 | Triple burner | Szì (呬) | -                           | -                                           | -      | -               | Both hands pushing up Heavens and massaging the triple burner |
 
