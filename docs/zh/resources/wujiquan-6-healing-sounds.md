@@ -10,4 +10,6 @@
 | 6 | 三焦 | Sì (呬) | -                 | -                | -      | -     | “呬”字托天空 |
 
 
-![六字诀视频](https://wujiquan.sgp1.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds.mp4)
+![六字诀视频第1部分](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds-part-1.mp4)
+
+![六字诀视频第2部分](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds-part-2.mp4)
