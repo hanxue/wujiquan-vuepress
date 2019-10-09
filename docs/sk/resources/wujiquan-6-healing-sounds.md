@@ -11,4 +11,6 @@
 | 5 | Slezina      | Chu (呼) | obavy, starosti, trápenie, sebaľútosť, hanba, pocit menejcennosti | otvorenosť, poctivosť, viera v dobrý priebeh osudu  | Zem  | Žiarivá žltá | Strieška                   |
 | 6 | Trojitý ohrievač (dutiny) | Sz (寺) | -                           | -                                           | -      | -               | Oboma rukami vytláčať nebesá a hladiť trojitý žiarič |
 
-![6 healing sounds video](https://wujiquan.sgp1.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds.mp4)
+![6 healing sounds video - Part 1](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds-part-1.mp4)
+
+![6 healing sounds video - Part 2](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds-part-2.mp4)

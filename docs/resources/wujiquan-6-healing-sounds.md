@@ -11,4 +11,6 @@
 | 6 | Triple burner | Szì (寺) | -                           | -                                           | -      | -               | Both hands pushing up Heavens and massaging the triple burner |
 
 
-![6 healing sounds video](https://wujiquan.sgp1.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds.mp4)
+![6 healing sounds video - Part 1](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds-part-1.mp4)
+
+![6 healing sounds video - Part 2](https://wujiquan.sgp1.cdn.digitaloceanspaces.com/Qigong/Wujiquan-six-healing-sounds-part-2.mp4)
