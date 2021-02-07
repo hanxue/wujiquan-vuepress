@@ -78,7 +78,10 @@ module.exports = {
           },
           {
             text: 'About Us',
-            link: '/about/',
+            items: [
+              { text: 'About Wujiquan', link: '/about/about_wujiquan' },
+              { text: 'Marian Lassak', link: '/about/marian_lassak' },
+            ],
           },
         ],
         sidebar: {
@@ -125,7 +128,10 @@ module.exports = {
           },
           {
             text: '关于我们',
-            link: '/about/',
+            items: [
+              { text: '关于无极拳', link: '/zh/about/about_wujiquan' },
+              { text: '马力安老师', link: '/zh/about/marian_lassak' },
+            ],
           },
         ],
         sidebar: {
@@ -168,7 +174,10 @@ module.exports = {
           },
           {
             text: 'O nás',
-            link: '/sk/about/',
+            items: [
+              { text: 'O nás Wujiquan', link: '/sk/about/about_wujiquan' },
+              { text: 'Marián Laššák', link: '/sk/about/marian_lassak' },
+            ],
           },
         ],
         sidebar: {
