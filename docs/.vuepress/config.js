@@ -81,6 +81,7 @@ module.exports = {
             items: [
               { text: 'About Wujiquan', link: '/about/about_wujiquan' },
               { text: 'Marian Lassak', link: '/about/marian_lassak' },
+              { text: 'Fernanda Wendland', link: '/about/fernanda_wendland' },
             ],
           },
         ],
@@ -131,6 +132,7 @@ module.exports = {
             items: [
               { text: '关于无极拳', link: '/zh/about/about_wujiquan' },
               { text: '马力安老师', link: '/zh/about/marian_lassak' },
+              { text: '芙兰达老师', link: '/zh/about/fernanda_wendland' },
             ],
           },
         ],
@@ -177,6 +179,7 @@ module.exports = {
             items: [
               { text: 'O nás Wujiquan', link: '/sk/about/about_wujiquan' },
               { text: 'Marián Laššák', link: '/sk/about/marian_lassak' },
+              { text: 'Fernanda Wendland', link: '/sk/about/fernanda_wendland' },
             ],
           },
         ],
