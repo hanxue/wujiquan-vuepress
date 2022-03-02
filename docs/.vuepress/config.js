@@ -60,11 +60,18 @@ module.exports = {
             ],
           },
           {
-            text: 'Events',
+            text: 'Events & Courses',
             items: [
-              { text: 'Brezno Workshop (Sep 2019)', link: '/events/2019_sep_workshop_brezno' },
+              { text: 'Courses',
+                items: [
+                  { text: 'Video: 6 Healing Sounds Qigong (Slovak)', link: '/sk/events/2021_course_six_healing_sounds' },
+                  { text: 'Video: Qigong for Office Workers (Slovak)', link: '/sk/events/2021_qigong_for_office_workers' },
+                  { text: 'Video: Life Management According to Constitutional Energy (Slovak)', link: '/sk/events/2021_course_constitutional_energy' },
+                ],
+              },
               { text: 'Past Events',
                 items: [
+                  { text: 'Brezno Workshop (Sep 2019)', link: '/events/2019_sep_workshop_brezno' },
                   { text: 'Wujiquan Fan Workshop (Dec 2018)', link: '/events/2018_wujiquan_fan_workshop' },
                   { text: 'Special Classes with Master Yu (October 2018)', link: '/events/2018_oct_special_classes_with_master_yu' },
                   { text: 'Special Summer Programme - 2018', link: '/events/2018_special_summer_programmes' },
@@ -73,8 +80,8 @@ module.exports = {
             ],
           },
           {
-            text: 'Beijing',
-            link: '/beijing/'
+            text: 'Countries & Instructors',
+            link: '/about/countries_and_instructors/'
           },
           {
             text: 'About Us',
@@ -113,9 +120,16 @@ module.exports = {
           {
             text: '活动',
             items: [
-              { text: 'Brezno 课程 (9月2019年)', link: '/zh/events/2019_sep_workshop_brezno' },
+              { text: '课程',
+                items: [
+                  { text: '视频：六字诀 气功 (斯洛伐克语)', link: '/sk/events/2021_course_six_healing_sounds' },
+                  { text: '视频：上班族气功 (斯洛伐克语)', link: '/sk/events/2021_qigong_for_office_workers' },
+                  { text: '视频：宪法能量管理生命 (斯洛伐克语)', link: '/sk/events/2021_course_constitutional_energy' },
+                ],
+              },
               { text: '往期精彩',
                 items: [
+                  { text: 'Brezno 课程 (9月2019年)', link: '/zh/events/2019_sep_workshop_brezno' },
                   { text: '无极拳扇子课程 (12月 2018年)', link: '/zh/events/2018_wujiquan_fan_workshop' },
                   { text: '于师父专业课程 (10月 2018年)', link: '/zh/events/2018_oct_special_classes_with_master_yu' },
                   { text: '特别暑期课程 - 2018', link: '/zh/events/2018_special_summer_programmes' },
@@ -124,8 +138,8 @@ module.exports = {
             ],
           },
           {
-            text: '无极拳北京',
-            link: '/beijing/'
+            text: '国家和教练队',
+            link: '/zh/about/countries_and_instructors/'
           },
           {
             text: '关于我们',
@@ -164,15 +178,26 @@ module.exports = {
           {
             text: 'Najnovšie Udalosti',
             items: [
-              { text: 'Brezno Seminár (Sep 2019)', link: '/sk/events/2019_sep_workshop_brezno' },
+              { text: 'kurzy',
+                items: [
+                  { text: 'Čchi-kung 6 liečivých zvukov', link: '/sk/events/2021_course_six_healing_sounds' },
+                  { text: 'Čchi-kung pre sedavé zamestnania', link: '/sk/events/2021_qigong_for_office_workers' },
+                  { text: 'Životospráva podľa konštitučnej energie', link: '/sk/events/2021_course_constitutional_energy' },
+                ],
+              },
               { text: 'Minulé Udalosti',
                 items: [
+                  { text: 'Brezno Seminár (Sep 2019)', link: '/sk/events/2019_sep_workshop_brezno' },
                   { text: 'Wujiquan Sklopný Seminár (Dec 2018)', link: '/sk/events/2018_wujiquan_fan_workshop' },
                   { text: 'Špeciálne triedy s Master Yu (October 2018)', link: '/sk/events/2018_oct_special_classes_with_master_yu' },
                   { text: 'Špeciálny letný program - 2018', link: '/sk/events/2018_special_summer_programmes' },
                 ],
               },
             ],
+          },
+          {
+            text: 'Countries & Instructors',
+            link: '/sk/about/countries_and_instructors/'
           },
           {
             text: 'O nás',

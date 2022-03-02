@@ -37,4 +37,6 @@ Fernanda uses her positive attitude and tireless energy to encourage others to l
 
 ### Contact
 
-![Contact details for Fernanda Wendland](/images/fernanda_contact_2022.png)
+![Fernandine kontaktné údaje](/images/fernanda_contact_2022.png)
+
+![Fernandin Wechat QR kód](/images/fernanda_wechat_qr_code.jpeg)
